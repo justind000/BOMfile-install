@@ -1,6 +1,6 @@
 {
-    "version": "0.9.0",
-    "notes": "Initial release",
+    "version": "0.9.1",
+    "notes": "release test",
     "pub_date": "2023-12-16T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
