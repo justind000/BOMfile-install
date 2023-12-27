@@ -1,10 +1,10 @@
 {
-    "version": "0.9.1",
-    "notes": "release test",
-    "pub_date": "2023-12-16T05:00:00.000Z",
+    "version": "0.9.0",
+    "notes": "First public release",
+    "pub_date": "2023-12-27T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUWh3c0srNTdZd3dLeFVTV2ZIelE2ZUkzK0MvamR4SGVjRDdDUTJsaFNQZ2hCSzZsWDhnaDJnTm5hMGM4MUZnbzNuUjBqVmFmVFJSc1ZZOTE1aUtlZGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNzc0MzU2CWZpbGU6Qk9NZmlyZV8wLjkuMF94NjRfZW4tVVMubXNpLnppcApZTXU3RThNNmN2cDdLaUQwSTAvMkozMkJUS2xoV0lJYTRXMytXSDFSekpPcnBNWlowNERyTVhiRThSQ3F1RXBjUHpQSHFUM2hoSmZFTGxlSGtybWlBQT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUWxXb3FxRTBmYTFSc2E2S3VXb0V5OWtDTUlxUVpNKys3RzFJRnNkS3U0UjNyRTRGMWRwTnFVTHk5QXRyNEJXVDdpZ1g3aUhXMVd1d0kxWXpidUNRdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzNjk1OTc0CWZpbGU6Qk9NZmlyZV8wLjkuMF94NjRfZW4tVVMubXNpLnppcAp6aVdWWWJmb0Z1a3dEZFJ1NG1HeU8wY1RLK3hVckhvNXNGUy82d1RLZUcrYm9pVlVoMncxUUMzcUg0YllGY25uYUV6V2lDeldyWTdRRkxtRllBQnNEQT09Cg==",
         "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.9.0_x64_en-US.msi"
       }
     }
