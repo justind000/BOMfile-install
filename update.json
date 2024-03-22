@@ -1,10 +1,10 @@
 {
-    "version": "0.9.1",
-    "notes": "Fixed an issue with ordering parts",
+    "version": "0.9.2",
+    "notes": "You can now tab between editing parts.",
     "pub_date": "2023-01-09T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUXRucTBZR2Z2d2JqbTlPaERKeS9sMHYxaFQwbjN1a1hiZjN5dmpTNFp1c2tLSm9uT3FXbVZ0T2wwNHZmbHdTWW96UlpVY1ZFM0Q5c2Z5TVhQRVZDaEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0ODIyMTY5CWZpbGU6Qk9NZmlyZV8wLjkuMV94NjRfZW4tVVMubXNpLnppcApoUVgwMW1tZlI0Y0gzNHdzcDIzSE1wbUhROFR4QU82UDYzRnRzTG5ENEVkRkU4elk4d2ZMZCt2d1ZjWWZRa0hidHl4STdYZVphZDVPTFBKdGVYVldDZz09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUXVVTEdnd0FIVnhsUms0SEY1RHZ4bjdXbGVJOWlaNzdqTGFPVmxBWHdyYXVBQUFFUTNoV1Z2K2tKbkRWR2ZyOXpVTXpVdUVYWStzS0dzLzZDb2doMHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMTEyMDQ2CWZpbGU6Qk9NZmlyZV8wLjkuMl94NjRfZW4tVVMubXNpLnppcAordlB0S2J1ZkhWUkRuWFNnVGRmemtpcWNGQ0FzTFBsUC84Y2xjdStuSTFneEttYUVySllQZ2ZkQy9yNHh3ZkZndXIxL2JyNjFGc2xyYzFMaGNEMHlBZz09Cg==",
         "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.9.1_x64_en-US.msi.zip"
       }
     }
