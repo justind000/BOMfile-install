@@ -1,11 +1,11 @@
 {
-    "version": "0.9.3",
-    "notes": "You can now tab between editing parts.",
-    "pub_date": "2024-03-23T05:00:00.000Z",
+    "version": "0.9.4",
+    "notes": "Fixed a tab-width error",
+    "pub_date": "2024-05-27T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUW52Y2NSR3k4c0dBWnNsdG4xVisyQkVxWEZNcUllUXA1T0xnUEthdld0MG0yTWtTaUJ4MGpmUFF0QzFxQ2xCaytud2pzS0IvQ2g1dFlEQ1JRNDBaUnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzExMjExMjAxCWZpbGU6Qk9NZmlyZV8wLjkuM194NjRfZW4tVVMubXNpLnppcApOZE52RlhQZURBd0dZSXg1aThaaVZoRzJOUm5xVTFON1djODVtMXlFaEhwc1h5MXpBaHNYZXlPczJQdGt0QWllVWlvemdkVUFDNCt1R0V0Tlk3S01CQT09Cg==",
-        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.9.3_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUW9IcjdRU1dwNmsrYjZBTUFFQkxHSmltUXVRKzlGNnBMa0k3VXNwUnYwclVjYVdXbW5CbFZXR0hyQS91T1pISlJPU1MzZWM1d29IdkNQRXRuM01MWGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2ODE5MDAyCWZpbGU6Qk9NZmlyZV8wLjkuNF94NjRfZW4tVVMubXNpLnppcApIUXF5NHJWUlNaZmNhWWZsemlwaHI4UHN3R0EzK3pDNkNpZGdQRGMzaE0yUUVzK0x3Nk5Sa1duR2N2cFRHQWYwMlUwL2wyb1NndUlzbjk3UEVaT3JDdz09Cg==",
+        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.9.4_x64_en-US.msi.zip"
       }
     }
   }
