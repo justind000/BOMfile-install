@@ -1,11 +1,11 @@
 {
     "version": "0.9.4",
-    "notes": "Fixed a tab-width error",
-    "pub_date": "2024-05-27T05:00:00.000Z",
+    "notes": "Column filters added and minor label printing UI improvements.",
+    "pub_date": "2024-07-11T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUW9IcjdRU1dwNmsrYjZBTUFFQkxHSmltUXVRKzlGNnBMa0k3VXNwUnYwclVjYVdXbW5CbFZXR0hyQS91T1pISlJPU1MzZWM1d29IdkNQRXRuM01MWGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2ODE5MDAyCWZpbGU6Qk9NZmlyZV8wLjkuNF94NjRfZW4tVVMubXNpLnppcApIUXF5NHJWUlNaZmNhWWZsemlwaHI4UHN3R0EzK3pDNkNpZGdQRGMzaE0yUUVzK0x3Nk5Sa1duR2N2cFRHQWYwMlUwL2wyb1NndUlzbjk3UEVaT3JDdz09Cg==",
-        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.9.4_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUW9DNC9ZSjlmR1E0TytrTjlnbVpWRGI5cm82Yk4wMjdZZmxac2RzcHJudWxLcEdCTEtoL2RmUVRyTHljS05YT0lnU3JVRW1HS25IZjFpTmFwTVNEL1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwODE4NDMxCWZpbGU6Qk9NZmlyZV8wLjEwLjBfeDY0X2VuLVVTLm1zaS56aXAKOVB0UEdGWHppRnA1Wm1na1lFU2hlVnN5ditMeXRzVysrVzhvdUROb0pwTnhlbk9NSHdoYUF2ZVlnbjVHeWFzbVd1YkN5OXNmUFVhcUNoMWovN0ZWQnc9PQo=",
+        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.10.0_x64_en-US.msi"
       }
     }
   }
