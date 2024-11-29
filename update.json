@@ -1,11 +1,11 @@
 {
-    "version": "0.11.0",
-    "notes": "Column filter improvement",
-    "pub_date": "2024-08-08T05:00:00.000Z",
+    "version": "0.12.0",
+    "notes": "Export Assembly",
+    "pub_date": "2024-11-29T05:00:00.000Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUW5yTm5xeXlRTVRXaXhaQzJiSWQySmxXNXVzeHV5S0pzamlIeHMrWnBxSnZRNUI5bFlpZjZGRFc4dndqaUpPVFMxLzhXQ3RTSExOYjF2UUpiMU0zT1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMjk3ODA3CWZpbGU6Qk9NZmlyZV8wLjExLjBfeDY0X2VuLVVTLm1zaS56aXAKalZqbmxRS1lxYXFWMnBZUnVhc0NGTHNnMHB3SkhBL01yVWlUekM1azI1YTRGZzhUWUpxWk4xc040UTBxcXp2RTVPREVrQTBXTndkSGl2dlNnQm5HQlE9PQo=",
-        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.11.0_x64_en-US.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbytDVk1RNHRYUWh5dWsyQ09yS2tJQ0pSL29HYmtxUmlLSEc3a3A1TkxMQ0s1VzVIMUJFZkFsQlFrQ0k3VkN1MHdRVHdEeDc4QmRsYUJ2ZURTb3hsb3Z2cFRmNjcwUVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyODk1MjcxCWZpbGU6Qk9NZmlyZV8wLjEyLjBfeDY0X2VuLVVTLm1zaS56aXAKRlQ0K0hBdkNGaStONW5xL1dXUy9UUzhnTVZ1bHIyc0ltblhiN2lBZmR1Ulg0TTJEdlE4bEVWQVQ4SnVlbWJYM3VRbW1VdG5nNXN1R1RnME1EdXBHRFE9PQo=",
+        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_0.12.0_x64_en-US.msi.zip"
       }
     }
   }
