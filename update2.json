@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "notes": "Version 1 initial release",
+    "pub_date": "2025-08-13T05:00:00.000Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1RPRHJxWTBXY2NtNXhyYmFTeCs5M2JCYy8zR3duTjVWWnFFSGxjREN6M0tSTU11bkdwanpESHRsaUF1czArQmRaN2JrWjdxQk9OWW53WE9XOTNKOHV1bmlCWHdZTncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MDk4NTA3CWZpbGU6Qk9NZmlyZV8xLjAuMF94NjRfZW4tVVMubXNpCjZBcHdnY1BlTGlrOFFFZ0s4ZG9pcTFodk96NU10WlEvM0JzcE9WeUhMTjltNGlxdWJVRHZ6c3gwbDVnMktkS1VxVUNrLzJ5VHhraU45WkRyc0VaNERnPT0K",
+        "url": "https://github.com/justind000/BOMfile-install/raw/main/BOMfire_1.0.0_x64_en-US.msi"
+      }
+    }
+  }
